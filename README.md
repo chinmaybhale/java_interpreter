@@ -1,2 +1,2 @@
 # p22beast
-Beast : interpreter for a the p22 language
+Beast : interpreter for the p22 language
